@@ -6,12 +6,14 @@
 This update brought several bug fixes and improvements.
 It is the second version of v1.1
 
-<h4>Bug fixes:</h4><br/>
+<h4>Bug fixes:</h4>
 -Fixed keys pressing with no condition in v1.1 (v1.0 was fine)<br/>
 -Fixed the problem with 1 timer handling all key presses
 
-<h4>Improvements:</h4><br/>
--Improved key presses and brought the delay down to 1ms
+<h4>Improvements:</h4>
+-Improved key presses and brought the delay down to <b>1ms</b>
+
+<h2>Features</h2>
 
 <h3>Easy to use</h3>
 The new tool is very easy to use. Just 3 clicks, and you're done!
