@@ -1,0 +1,13 @@
+C:\Users\Gabi\source\repos\FNFKeySpam\FNFKeySpam\bin\Release\FNFKeySpam.exe.config
+C:\Users\Gabi\source\repos\FNFKeySpam\FNFKeySpam\bin\Release\FNFKeySpam.exe
+C:\Users\Gabi\source\repos\FNFKeySpam\FNFKeySpam\bin\Release\FNFKeySpam.pdb
+C:\Users\Gabi\source\repos\FNFKeySpam\FNFKeySpam\bin\Release\FNFKeySpam.xml
+C:\Users\Gabi\source\repos\FNFKeySpam\FNFKeySpam\obj\Release\FNFKeySpam.vbprojAssemblyReference.cache
+C:\Users\Gabi\source\repos\FNFKeySpam\FNFKeySpam\obj\Release\FNFKeySpam.spm.resources
+C:\Users\Gabi\source\repos\FNFKeySpam\FNFKeySpam\obj\Release\FNFKeySpam.Resources.resources
+C:\Users\Gabi\source\repos\FNFKeySpam\FNFKeySpam\obj\Release\FNFKeySpam.start.resources
+C:\Users\Gabi\source\repos\FNFKeySpam\FNFKeySpam\obj\Release\FNFKeySpam.vbproj.GenerateResource.cache
+C:\Users\Gabi\source\repos\FNFKeySpam\FNFKeySpam\obj\Release\FNFKeySpam.vbproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\FNFKeySpam\FNFKeySpam\obj\Release\FNFKeySpam.exe
+C:\Users\Gabi\source\repos\FNFKeySpam\FNFKeySpam\obj\Release\FNFKeySpam.xml
+C:\Users\Gabi\source\repos\FNFKeySpam\FNFKeySpam\obj\Release\FNFKeySpam.pdb
