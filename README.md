@@ -18,5 +18,11 @@ It is the second version of v1.1
 <h3>Easy to use</h3>
 The new tool is very easy to use. Just 3 clicks, and you're done!
 
-<h3>Efficient</h3>
+<h3>No loss</h3>
 To prevent data loss/corruption, the tool does not spam <b>WASD</b>, instead it spams <b>←↓↑→</b>.
+
+<h3>Efficient</h3>
+While it might have some misses, the delay between clicks is of <b>1ms</b>, so it will hit most of the notes.
+
+<h3>Other uses</h3>
+You can also use this tool in other games, or to not be detected as afk on some platforms.
