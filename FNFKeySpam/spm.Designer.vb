@@ -118,6 +118,7 @@ Partial Class spm
         Me.Name = "spm"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "FNF Key Spammer"
+        Me.TopMost = True
         CType(Me.prp, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
