@@ -4,3 +4,6 @@
 
 <h3>Easy to use</h3>
 The new tool is very easy to use. Just 3 clicks, and you're done!
+
+<h3>Efficient</h3>
+To prevent data loss/corruption, the tool does not spam <b>WASD</b>, instead it spams <b>←↓↑→</b>.
