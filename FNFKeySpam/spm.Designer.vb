@@ -23,22 +23,25 @@ Partial Class spm
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
-        Me.clicc = New System.Windows.Forms.Timer(Me.components)
+        Me.left = New System.Windows.Forms.Timer(Me.components)
         Me.always = New System.Windows.Forms.Timer(Me.components)
         Me.prp = New System.Windows.Forms.PictureBox()
         Me.PictureBox3 = New System.Windows.Forms.PictureBox()
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.down = New System.Windows.Forms.Timer(Me.components)
+        Me.up = New System.Windows.Forms.Timer(Me.components)
+        Me.right = New System.Windows.Forms.Timer(Me.components)
         CType(Me.prp, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
-        'clicc
+        'left
         '
-        Me.clicc.Enabled = True
-        Me.clicc.Interval = 1
+        Me.left.Enabled = True
+        Me.left.Interval = 1
         '
         'always
         '
@@ -86,6 +89,21 @@ Partial Class spm
         Me.PictureBox1.TabIndex = 0
         Me.PictureBox1.TabStop = False
         '
+        'down
+        '
+        Me.down.Enabled = True
+        Me.down.Interval = 1
+        '
+        'up
+        '
+        Me.up.Enabled = True
+        Me.up.Interval = 1
+        '
+        'right
+        '
+        Me.right.Enabled = True
+        Me.right.Interval = 1
+        '
         'spm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -112,6 +130,9 @@ Partial Class spm
     Friend WithEvents PictureBox2 As PictureBox
     Friend WithEvents PictureBox3 As PictureBox
     Friend WithEvents prp As PictureBox
-    Friend WithEvents clicc As Timer
+    Friend WithEvents left As Timer
     Friend WithEvents always As Timer
+    Friend WithEvents down As Timer
+    Friend WithEvents up As Timer
+    Friend WithEvents right As Timer
 End Class
