@@ -7,10 +7,13 @@ This update brought several bug fixes and improvements.
 It is the second version of v1.1
 
 Bug fixes:
+
 -Fixed keys pressing with no condition in v1.1 (v1.0 was fine)
+
 -Fixed the problem with 1 timer handling all key presses
-		   
+
 Improvements:
+
 -Improved key presses and brought the delay down to 1ms
 
 <h3>Easy to use</h3>
